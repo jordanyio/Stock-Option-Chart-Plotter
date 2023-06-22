@@ -7,5 +7,5 @@ This works for any ticker, stock tickers and option tickers.
 I primarily use it for option tickers since those charts arent always readily avaliable. 
 
 To use this code, you need to make sure you have yfinance and mplfinance libraries installed. 
-You can install them using pip:     pip install yfinance mplfinance
+You can install them using pip:    - pip install yfinance mplfinance -
 tkinter should be included with python. 
