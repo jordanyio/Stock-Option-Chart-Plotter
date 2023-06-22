@@ -1,5 +1,5 @@
 # Stock-Option-Chart-Plotter
-The code you sets up a tkinter window with a label, entry widget, option menu, and a submit button. 
+The code sets up a tkinter window with a label, entry widget, option menu, and a submit button. 
 When the user enters a stock symbol and selects a timespan from the dropdown menu, the submit() function is called. 
 In the function, it uses the yfinance library to download stock price data for the specified symbol and timespan.
 
